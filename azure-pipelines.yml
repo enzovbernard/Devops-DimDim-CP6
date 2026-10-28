@@ -9,7 +9,7 @@ pool:
 variables:
   JAVA_VERSION: '17'
   JDK_VERSION: '1.17'
-  WEB_APP_NAME: 'playmix-mvc-rm563000'
+  WEB_APP_NAME: 'app-dimdim-rm563000'
   ARTIFACT_NAME: 'app'
   TEST_RUN_TITLE: 'Testes de Codigo'
 
